@@ -1,5 +1,7 @@
 # 🌐 Arjit Chauhan — Portfolio
 
+> 🔗 **Live Portfolio:** https://chauhanarjit07.github.io/portfolio-website/
+
 A responsive, single-page personal portfolio website for **Arjit Chauhan** — aspiring web developer, database enthusiast, and B.Tech student.
 
 ## ✨ Highlights
